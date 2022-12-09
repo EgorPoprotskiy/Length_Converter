@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyConverter(HW)</string>
+    <string name="enter_meters">Введите метры</string>
+    <string name="convert_to_miles">перевести в мили</string>
+    <string name="convert_to_yards">перевести в ярды</string>
+    <string name="convert_to_inches">перевести в дюймы</string>
+    <string name="translation_result">результат перевода</string>
+    <string name="translate">Перевести</string>
+</resources>
